@@ -1,0 +1,1 @@
+This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify grayscale handwriting images of 27 different individuals. Each image is 28x28 pixels in size and stored in a folder corresponding to the person who wrote it.
